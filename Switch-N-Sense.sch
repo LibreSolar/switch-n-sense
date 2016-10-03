@@ -10327,224 +10327,6 @@ FQP27P06 -
 </deviceset>
 </devicesets>
 </library>
-<library name="Wire_to_Board_Connectors_rev15d">
-<description>&lt;BR&gt;Wurth Elektronik - Wire to Board Connectors&lt;br&gt;&lt;Hr&gt;
-&lt;BR&gt;&lt;BR&gt; 
-&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
-&lt;TR&gt;   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;
-      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------------------------&lt;BR&gt;
-&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
-  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;BR&gt;
-      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;
-      ----O--------&lt;BR&gt;
-      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-   
-&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
-      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;
-       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-
-  &lt;TR&gt;
-    &lt;TD COLSPAN=7&gt;&amp;nbsp;
-    &lt;/TD&gt;
-  &lt;/TR&gt;
-  
-&lt;/TABLE&gt;
-&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
-
-&lt;HR&gt;&lt;BR&gt;
-&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
-EMC &amp; Inductive Solutions&lt;br&gt;
-
-Max-Eyth-Str.1&lt;br&gt;
-D-74638 Waldenburg&lt;br&gt;
-&lt;br&gt;
-Tel: +49 (0)7942-945-0&lt;br&gt;
-Fax:+49 (0)7942-945-405&lt;br&gt;
-&lt;br&gt;
-&lt;a href="http://www.we-online.com/eagle"&gt;http://www.we-online.com/eagle&lt;/a&gt;&lt;br&gt;
-&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
-&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
-Neither CadSoft nor WE-eiSos does warrant that this library is error-free or &lt;br&gt;
-that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
-Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
-&lt;hr&gt;
-Eagle Version 6, Library Revision 2015c, 2015-06-02&lt;br&gt;
-&lt;HR&gt;
-Copyright: Würth Elektronik</description>
-<packages>
-<package name="662008231822">
-<description>WR-MPC3 3.00mm Male Dual Row SMT Vertical Header with SMT Fitting Nail, 8 Pins</description>
-<smd name="1" x="4.5" y="-4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="5" x="4.5" y="4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="M2" x="-8.395" y="0" dx="3.43" dy="1.65" layer="1" rot="R180"/>
-<smd name="M1" x="8.395" y="0" dx="3.43" dy="1.65" layer="1" rot="R180"/>
-<smd name="2" x="1.5" y="-4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="6" x="1.5" y="4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="3" x="-1.5" y="-4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="7" x="-1.5" y="4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="8" x="-4.5" y="4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<smd name="4" x="-4.5" y="-4.7" dx="2.54" dy="1.27" layer="1" rot="R90"/>
-<text x="12.88" y="0.96" size="1.27" layer="25">&gt;NAME</text>
-<text x="12.82" y="-0.62" size="1.27" layer="27">&gt;VALUE</text>
-<text x="4.16" y="-5.49" size="1.27" layer="51">1</text>
-<text x="-5.24" y="4.24" size="1.27" layer="51">8</text>
-<wire x1="-7.85" y1="3.68" x2="7.85" y2="3.68" width="0.127" layer="51"/>
-<wire x1="7.85" y1="3.68" x2="7.85" y2="-3.68" width="0.127" layer="51"/>
-<wire x1="7.85" y1="-3.68" x2="-7.85" y2="-3.68" width="0.127" layer="51"/>
-<wire x1="-7.85" y1="-3.68" x2="-7.85" y2="3.68" width="0.127" layer="51"/>
-<wire x1="-11.45" y1="-6.25" x2="-11.45" y2="6.25" width="0.127" layer="39"/>
-<wire x1="-11.45" y1="6.25" x2="11.45" y2="6.25" width="0.127" layer="39"/>
-<wire x1="11.45" y1="6.25" x2="11.45" y2="-6.25" width="0.127" layer="39"/>
-<wire x1="11.45" y1="-6.25" x2="-11.45" y2="-6.25" width="0.127" layer="39"/>
-<wire x1="-5.33" y1="3.68" x2="-7.85" y2="3.68" width="0.127" layer="21"/>
-<wire x1="-7.85" y1="3.68" x2="-7.85" y2="1.02" width="0.127" layer="21"/>
-<wire x1="5.34" y1="3.68" x2="7.85" y2="3.68" width="0.127" layer="21"/>
-<wire x1="7.85" y1="3.68" x2="7.85" y2="1.02" width="0.127" layer="21"/>
-<wire x1="-7.85" y1="-1.01" x2="-7.85" y2="-3.68" width="0.127" layer="21"/>
-<wire x1="7.85" y1="-1.01" x2="7.85" y2="-3.68" width="0.127" layer="21"/>
-<wire x1="7.85" y1="-3.68" x2="5.38" y2="-3.68" width="0.127" layer="21"/>
-<wire x1="-3.69" y1="3.68" x2="-2.31" y2="3.68" width="0.127" layer="21"/>
-<wire x1="-3.66" y1="-3.68" x2="-2.33" y2="-3.68" width="0.127" layer="21"/>
-<wire x1="-0.69" y1="3.68" x2="0.69" y2="3.68" width="0.127" layer="21"/>
-<wire x1="-0.66" y1="-3.68" x2="0.67" y2="-3.68" width="0.127" layer="21"/>
-<wire x1="-5.33" y1="-3.68" x2="-7.85" y2="-3.68" width="0.127" layer="21"/>
-<polygon width="0.127" layer="43">
-<vertex x="-7.68" y="3.5"/>
-<vertex x="-5.4" y="3.5"/>
-<vertex x="-5.4" y="3.2"/>
-<vertex x="5.4" y="3.2"/>
-<vertex x="5.4" y="3.5"/>
-<vertex x="7.68" y="3.5"/>
-<vertex x="7.68" y="1.1"/>
-<vertex x="6.4" y="1.1"/>
-<vertex x="6.4" y="-1.1"/>
-<vertex x="7.68" y="-1.1"/>
-<vertex x="7.68" y="-3.5"/>
-<vertex x="5.4" y="-3.5"/>
-<vertex x="5.4" y="-3.2"/>
-<vertex x="-5.4" y="-3.2"/>
-<vertex x="-5.4" y="-3.5"/>
-<vertex x="-7.68" y="-3.5"/>
-<vertex x="-7.68" y="-1.1"/>
-<vertex x="-6.4" y="-1.1"/>
-<vertex x="-6.4" y="1.1"/>
-<vertex x="-7.68" y="1.1"/>
-</polygon>
-<polygon width="0.127" layer="43">
-<vertex x="-0.6" y="3.5"/>
-<vertex x="0.6" y="3.5"/>
-<vertex x="0.6" y="3.29"/>
-<vertex x="-0.6" y="3.29"/>
-</polygon>
-<polygon width="0.127" layer="43">
-<vertex x="-3.6" y="3.5"/>
-<vertex x="-2.4" y="3.5"/>
-<vertex x="-2.4" y="3.29"/>
-<vertex x="-3.6" y="3.29"/>
-</polygon>
-<polygon width="0.127" layer="43">
-<vertex x="-3.6" y="-3.3"/>
-<vertex x="-2.4" y="-3.3"/>
-<vertex x="-2.4" y="-3.51"/>
-<vertex x="-3.6" y="-3.51"/>
-</polygon>
-<polygon width="0.127" layer="43">
-<vertex x="-0.6" y="-3.3"/>
-<vertex x="0.6" y="-3.3"/>
-<vertex x="0.6" y="-3.51"/>
-<vertex x="-0.6" y="-3.51"/>
-</polygon>
-<wire x1="2.31" y1="3.68" x2="3.69" y2="3.68" width="0.127" layer="21"/>
-<wire x1="2.34" y1="-3.68" x2="3.67" y2="-3.68" width="0.127" layer="21"/>
-<polygon width="0.127" layer="43">
-<vertex x="2.4" y="3.5"/>
-<vertex x="3.6" y="3.5"/>
-<vertex x="3.6" y="3.29"/>
-<vertex x="2.4" y="3.29"/>
-</polygon>
-<polygon width="0.127" layer="43">
-<vertex x="2.4" y="-3.3"/>
-<vertex x="3.6" y="-3.3"/>
-<vertex x="3.6" y="-3.51"/>
-<vertex x="2.4" y="-3.51"/>
-</polygon>
-</package>
-</packages>
-<symbols>
-<symbol name="4X4-1">
-<wire x1="-20.32" y1="7.62" x2="5.08" y2="7.62" width="0.254" layer="94"/>
-<wire x1="5.08" y1="7.62" x2="5.08" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-7.62" x2="-20.32" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="-20.32" y1="-7.62" x2="-20.32" y2="7.62" width="0.254" layer="94"/>
-<text x="8.128" y="0.762" size="1.778" layer="95">&gt;NAME</text>
-<text x="7.366" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="1" x="0" y="-12.7" length="middle" rot="R90"/>
-<pin name="2" x="-5.08" y="-12.7" length="middle" rot="R90"/>
-<pin name="3" x="-10.16" y="-12.7" length="middle" rot="R90"/>
-<pin name="4" x="-15.24" y="-12.7" length="middle" rot="R90"/>
-<pin name="5" x="0" y="12.7" length="middle" rot="R270"/>
-<pin name="6" x="-5.08" y="12.7" length="middle" rot="R270"/>
-<pin name="7" x="-10.16" y="12.7" length="middle" rot="R270"/>
-<pin name="8" x="-15.24" y="12.7" length="middle" rot="R270"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="662008231822" prefix="K" uservalue="yes">
-<description>&lt;b&gt;WR-MPC3 3.00mm Male Dual Row SMT Vertical Header with SMT Fitting Nail, 8 Pins&lt;/b&gt;=&gt;Code : Con_WTB_MPC3_2_PCB_SMT_662008231822
-&lt;br&gt;&lt;a href="http://katalog.we-online.de/media/thumbs2/eican/thb_Con_WTB_MPC3_2_PCB_SMT_6620xx231822_pf2.jpg" title="Enlarge picture"&gt;
-&lt;img src="http://katalog.we-online.de/media/thumbs2/eican/thb_Con_WTB_MPC3_2_PCB_SMT_6620xx231822_pf2.jpg"  width="320"&gt;&lt;/a&gt;&lt;p&gt;
-Details see: &lt;a href="http://katalog.we-online.de/en/em/662_0xx_231_822"&gt;http://katalog.we-online.de/en/em/662_0xx_231_822&lt;/a&gt;&lt;p&gt;
-Created 2014-06-06, Karrer Zheng&lt;br&gt;
-2014 (C) Würth Elektronik</description>
-<gates>
-<gate name="G$1" symbol="4X4-1" x="7.62" y="0"/>
-</gates>
-<devices>
-<device name="" package="662008231822">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-<connect gate="G$1" pin="7" pad="7"/>
-<connect gate="G$1" pin="8" pad="8"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="Wuerth_Elektronik_Power_Elements_rev15c">
 <description>&lt;BR&gt;Wurth Elektronik - Power Elements&lt;br&gt;&lt;Hr&gt;
 &lt;BR&gt;&lt;BR&gt; 
@@ -14450,6 +14232,154 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="Board_to_Board_Connectors_rev15d">
+<description>&lt;BR&gt;Wurth Elektronik - Board to Board Connectors&lt;br&gt;&lt;Hr&gt;
+&lt;BR&gt;&lt;BR&gt; 
+&lt;TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0&gt;
+&lt;TR&gt;   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;&lt;br&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;
+      -----&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt; &lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------------------------&lt;BR&gt;
+&lt;B&gt;&lt;I&gt;&lt;span style='font-size:26pt;
+  color:#FF6600;'&gt;WE &lt;/span&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;BR&gt;
+      ---------------------------&lt;BR&gt;&lt;b&gt;Würth Elektronik&lt;/b&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+    &lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;br&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;
+      ----O--------&lt;BR&gt;
+      ---------O---&lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+   
+&lt;TD BGCOLOR="#cccccc" ALIGN=CENTER&gt;&lt;FONT FACE=ARIAL SIZE=3&gt;&lt;BR&gt;
+      &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;
+       &lt;BR&gt;&lt;BR&gt;&lt;/FONT&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+  &lt;TR&gt;
+    &lt;TD COLSPAN=7&gt;&amp;nbsp;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+  
+&lt;/TABLE&gt;
+&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;More than you expect&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;/B&gt;
+
+&lt;HR&gt;&lt;BR&gt;
+&lt;b&gt;Würth Elektronik eiSos GmbH &amp; Co. KG&lt;/b&gt;&lt;br&gt;
+EMC &amp; Inductive Solutions&lt;br&gt;
+
+Max-Eyth-Str.1&lt;br&gt;
+D-74638 Waldenburg&lt;br&gt;
+&lt;br&gt;
+Tel: +49 (0)7942-945-0&lt;br&gt;
+Fax:+49 (0)7942-945-405&lt;br&gt;
+&lt;br&gt;
+&lt;a href="http://www.we-online.com/eagle"&gt;http://www.we-online.com/eagle&lt;/a&gt;&lt;br&gt;
+&lt;a href="mailto:libraries@we-online.com"&gt;libraries@we-online.com&lt;/a&gt; &lt;BR&gt;&lt;BR&gt;
+&lt;br&gt;&lt;HR&gt;&lt;BR&gt;
+Neither CadSoft nor WE-eiSos does warrant that this library is error-free or &lt;br&gt;
+that it meets your specific requirements.&lt;br&gt;&lt;BR&gt;
+Please contact us for more information.&lt;br&gt;&lt;BR&gt;&lt;br&gt;
+&lt;hr&gt;
+Eagle Version 6, Library Revision 2015c, 2015-06-02
+&lt;HR&gt;
+Copyright: Würth Elektronik</description>
+<packages>
+<package name="61000821121">
+<description>WR-PHD 2.54mm Dual SMT Pin Header, 8 Pins</description>
+<wire x1="-7.67" y1="2.46" x2="-7.67" y2="-2.62" width="0.127" layer="21"/>
+<wire x1="2.73" y1="2.46" x2="-7.67" y2="2.46" width="0.127" layer="51"/>
+<wire x1="2.73" y1="2.46" x2="2.73" y2="-2.62" width="0.127" layer="21"/>
+<wire x1="-7.67" y1="-2.62" x2="2.73" y2="-2.62" width="0.127" layer="51"/>
+<smd name="1" x="-6.35" y="-2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="2" x="-3.81" y="-2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="8" x="-6.35" y="2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="7" x="-3.81" y="2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="3" x="-1.27" y="-2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="6" x="-1.27" y="2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="4" x="1.27" y="-2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<smd name="5" x="1.27" y="2.7" dx="3.1" dy="1" layer="1" rot="R90"/>
+<text x="-8" y="-4" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="5" y="-4" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<circle x="-7.62" y="-3.81" radius="0.127" width="0.4064" layer="21"/>
+<rectangle x1="-7.62" y1="-4.5" x2="2.54" y2="4.5" layer="39"/>
+</package>
+</packages>
+<symbols>
+<symbol name="4/4">
+<wire x1="-2.54" y1="10.16" x2="-2.54" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-2.54" x2="7.62" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-2.54" x2="7.62" y2="10.16" width="0.254" layer="94"/>
+<wire x1="7.62" y1="10.16" x2="-2.54" y2="10.16" width="0.254" layer="94"/>
+<wire x1="4.318" y1="8.255" x2="4.318" y2="6.985" width="0.254" layer="94" curve="-180"/>
+<wire x1="4.318" y1="5.715" x2="4.318" y2="4.445" width="0.254" layer="94" curve="-180"/>
+<wire x1="4.318" y1="3.175" x2="4.318" y2="1.905" width="0.254" layer="94" curve="-180"/>
+<wire x1="4.318" y1="0.635" x2="4.318" y2="-0.635" width="0.254" layer="94" curve="-180"/>
+<wire x1="0.762" y1="1.905" x2="0.762" y2="3.175" width="0.254" layer="94" curve="-180"/>
+<wire x1="0.762" y1="-0.635" x2="0.762" y2="0.635" width="0.254" layer="94" curve="-180"/>
+<wire x1="0.762" y1="6.985" x2="0.762" y2="8.255" width="0.254" layer="94" curve="-180"/>
+<wire x1="0.762" y1="4.445" x2="0.762" y2="5.715" width="0.254" layer="94" curve="-180"/>
+<text x="0" y="12.7" size="1.27" layer="95">&gt;NAME</text>
+<text x="0" y="-5.08" size="1.27" layer="95">&gt;VALUE</text>
+<pin name="1" x="-5.08" y="7.62" visible="pad" length="middle" direction="pas"/>
+<pin name="2" x="-5.08" y="5.08" visible="pad" length="middle" direction="pas"/>
+<pin name="3" x="-5.08" y="2.54" visible="pad" length="middle" direction="pas"/>
+<pin name="4" x="-5.08" y="0" visible="pad" length="middle" direction="pas"/>
+<pin name="8" x="10.16" y="7.62" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="7" x="10.16" y="5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="6" x="10.16" y="2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="5" x="10.16" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="61000821121" prefix="K">
+<description>&lt;b&gt; WR-PHD 2.54mm Dual SMT Pin Header, 8 Pins &lt;/b&gt;=&gt;Code : Con_BTB_PHD_2.54_2_61000821121
+&lt;br&gt;&lt;a href="http://katalog.we-online.de/media/images/eican/Con_BTB_PHD_2.54_2_6100xx21121_pf2.jpg" title="Enlarge picture"&gt;
+&lt;img src="http://katalog.we-online.de/media/thumbs2/eican/thb_Con_BTB_PHD_2.54_2_6100xx21121_pf2.jpg" width="320"&gt;&lt;/a&gt;&lt;p&gt;
+Details see: &lt;a href="http://katalog.we-online.de/en/em/610_0xx_211_21"&gt;http://katalog.we-online.de/en/em/610_0xx_211_21&lt;/a&gt;&lt;p&gt;
+Created 2014-05-29, Karrer Zheng&lt;br&gt;
+2014 (C) Würth Elektronik</description>
+<gates>
+<gate name="G$1" symbol="4/4" x="-2.54" y="-2.54"/>
+</gates>
+<devices>
+<device name="" package="61000821121">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -14519,7 +14449,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <attribute name="MPN" value="GRM188R71H103KA01D."/>
 <attribute name="OC_FARNELL" value="8819980"/>
 </part>
-<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="1µ">
+<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="2.2µ">
 <attribute name="MF" value="WALSIN"/>
 <attribute name="MPN" value="0603B104K500CT"/>
 <attribute name="OC_FARNELL" value="2496834"/>
@@ -14601,7 +14531,6 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="BAT-" library="Wuerth_Elektronik_Power_Elements_rev15c" deviceset="WP-BUCF" device="_G"/>
 <part name="LOAD-" library="Wuerth_Elektronik_Power_Elements_rev15c" deviceset="WP-BUCF" device="_G"/>
-<part name="K1" library="Wire_to_Board_Connectors_rev15d" deviceset="662008231822" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R2512" value="1m">
 <attribute name="MF" value=""/>
@@ -14649,6 +14578,23 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <attribute name="OC_FARNELL" value="2496834"/>
 </part>
 <part name="U$1" library="LibreSolar" deviceset="LIBRESOLAR_LOGO" device=""/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="1k">
+<attribute name="MF" value="PANASONIC ELECTRONIC COMPONENTS"/>
+<attribute name="MPN" value="ERJU06F1004V"/>
+<attribute name="OC_FARNELL" value="2145441"/>
+</part>
+<part name="R15" library="rcl" deviceset="R-EU_" device="R0603" value="1k">
+<attribute name="MF" value="PANASONIC ELECTRONIC COMPONENTS"/>
+<attribute name="MPN" value="ERJU06F1004V"/>
+<attribute name="OC_FARNELL" value="2145441"/>
+</part>
+<part name="R16" library="rcl" deviceset="R-EU_" device="R0603" value="1k">
+<attribute name="MF" value="PANASONIC ELECTRONIC COMPONENTS"/>
+<attribute name="MPN" value="ERJU06F1004V"/>
+<attribute name="OC_FARNELL" value="2145441"/>
+</part>
+<part name="K1" library="Board_to_Board_Connectors_rev15d" deviceset="61000821121" device=""/>
+<part name="GND2" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -14664,18 +14610,21 @@ before switching on DSG
 <text x="264.16" y="238.76" size="3.81" layer="97">High side MOSFET driver</text>
 <text x="290.068" y="26.67" size="2.54" layer="97" font="vector">Design: Martin Jäger (http://libre.solar)
 License: CC-BY-SA</text>
-<text x="271.78" y="208.28" size="1.27" layer="97">Total gate capacitance of both
-FETs approx 40nF (see slva729a)</text>
+<text x="271.78" y="208.28" size="1.778" layer="97">Max. C_iss of FDMT80080DC = 20.7 nF
+
+Necessary CP capacity acc. datasheet:
+4 x 20.7 nF x 470/20 = 1.95 uF</text>
 <text x="127" y="193.04" size="1.778" layer="97">4x FDMT80080DC</text>
-<text x="279.4" y="68.58" size="1.778" layer="97">Connector either:
-- Molex Micro-Fit 3.0
-- Würth WR-MPC3
-- Tyco Micro MATE-N-LOK 3mm</text>
 <text x="78.74" y="45.72" size="1.778" layer="97">Take resistor with low temperature coefficient and 
 3W thermal rating, e.g.:
 Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <text x="83.82" y="106.68" size="3.81" layer="97">Low side sense resistors</text>
-<text x="271.78" y="124.46" size="3.81" layer="97">BMS connector</text>
+<text x="269.24" y="124.46" size="3.81" layer="97">BMS connector</text>
+<text x="264.922" y="96.012" size="1.4224" layer="97">Power -&gt;
+Sense -&gt;</text>
+<text x="246.38" y="160.02" size="1.778" layer="97">PMON not used as voltage divider
+must be defined depending on
+max. pack voltage of BMS</text>
 </plain>
 <instances>
 <instance part="R5" gate="G$1" x="78.74" y="215.9">
@@ -14718,15 +14667,15 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <attribute name="MF" x="320.04" y="187.96" size="1.778" layer="96" rot="R270" display="off"/>
 <attribute name="MPN" x="320.04" y="187.96" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
-<instance part="R8" gate="G$1" x="246.38" y="203.2" rot="R90">
-<attribute name="OC_FARNELL" x="246.38" y="203.2" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="246.38" y="203.2" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="246.38" y="203.2" size="1.778" layer="96" display="off"/>
+<instance part="R8" gate="G$1" x="241.3" y="203.2" rot="R90">
+<attribute name="OC_FARNELL" x="241.3" y="203.2" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="241.3" y="203.2" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="241.3" y="203.2" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="C4" gate="G$1" x="246.38" y="185.42">
-<attribute name="OC_FARNELL" x="246.38" y="185.42" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="246.38" y="185.42" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="246.38" y="185.42" size="1.778" layer="96" display="off"/>
+<instance part="C4" gate="G$1" x="241.3" y="185.42">
+<attribute name="OC_FARNELL" x="241.3" y="185.42" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="241.3" y="185.42" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="241.3" y="185.42" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C3" gate="G$1" x="256.54" y="200.66" rot="R90">
 <attribute name="OC_FARNELL" x="256.54" y="200.66" size="1.778" layer="96" rot="R90" display="off"/>
@@ -14744,7 +14693,7 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <attribute name="MPN" x="327.66" y="152.4" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND12" gate="1" x="327.66" y="142.24"/>
-<instance part="GND10" gate="1" x="246.38" y="175.26"/>
+<instance part="GND10" gate="1" x="241.3" y="175.26"/>
 <instance part="C1" gate="G$1" x="96.52" y="129.54" rot="R90">
 <attribute name="OC_FARNELL" x="96.52" y="129.54" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MF" x="96.52" y="129.54" size="1.778" layer="96" rot="R90" display="off"/>
@@ -14816,10 +14765,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <attribute name="MPN" x="116.84" y="185.42" size="1.27" layer="96" rot="MR180" display="off"/>
 <attribute name="NAME" x="116.84" y="190.5" size="1.778" layer="95" rot="MR0"/>
 </instance>
-<instance part="GND1" gate="1" x="271.78" y="83.82"/>
+<instance part="GND1" gate="1" x="274.32" y="91.44"/>
 <instance part="BAT-" gate="G$1" x="35.56" y="78.74" rot="R180"/>
 <instance part="LOAD-" gate="G$1" x="203.2" y="78.74"/>
-<instance part="K1" gate="G$1" x="289.56" y="104.14" rot="R90"/>
 <instance part="GND3" gate="1" x="53.34" y="71.12" rot="MR0"/>
 <instance part="R11" gate="G$1" x="106.68" y="93.98">
 <attribute name="OC_FARNELL" x="106.68" y="93.98" size="1.778" layer="96" display="off"/>
@@ -14867,6 +14815,23 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <attribute name="MPN" x="187.96" y="139.7" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="U$1" gate="G$1" x="205.74" y="15.24"/>
+<instance part="R10" gate="G$1" x="317.5" y="114.3">
+<attribute name="OC_FARNELL" x="317.5" y="114.3" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MF" x="317.5" y="114.3" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="317.5" y="114.3" size="1.778" layer="96" rot="R270" display="off"/>
+</instance>
+<instance part="R15" gate="G$1" x="317.5" y="104.14">
+<attribute name="OC_FARNELL" x="317.5" y="104.14" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MF" x="317.5" y="104.14" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="317.5" y="104.14" size="1.778" layer="96" rot="R270" display="off"/>
+</instance>
+<instance part="R16" gate="G$1" x="317.5" y="93.98">
+<attribute name="OC_FARNELL" x="317.5" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MF" x="317.5" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="MPN" x="317.5" y="93.98" size="1.778" layer="96" rot="R270" display="off"/>
+</instance>
+<instance part="K1" gate="G$1" x="284.48" y="96.52"/>
+<instance part="GND2" gate="1" x="251.46" y="175.26"/>
 </instances>
 <busses>
 </busses>
@@ -14886,17 +14851,17 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
 <pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="246.38" y1="180.34" x2="246.38" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="241.3" y1="180.34" x2="241.3" y2="177.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="276.86" y1="93.98" x2="271.78" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="271.78" y1="93.98" x2="271.78" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="K1" gate="G$1" pin="7"/>
-<pinref part="K1" gate="G$1" pin="8"/>
-<wire x1="271.78" y1="88.9" x2="271.78" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="276.86" y1="88.9" x2="271.78" y2="88.9" width="0.1524" layer="91"/>
-<junction x="271.78" y="88.9"/>
+<wire x1="279.4" y1="99.06" x2="274.32" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="99.06" x2="274.32" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="96.52" x2="274.32" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="279.4" y1="96.52" x2="274.32" y2="96.52" width="0.1524" layer="91"/>
+<junction x="274.32" y="96.52"/>
+<pinref part="K1" gate="G$1" pin="3"/>
+<pinref part="K1" gate="G$1" pin="4"/>
 </segment>
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
@@ -14924,6 +14889,16 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <junction x="45.72" y="78.74"/>
 <wire x1="86.36" y1="78.74" x2="53.34" y2="78.74" width="0.1524" layer="91"/>
 <junction x="86.36" y="78.74"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="CP_EN"/>
+<wire x1="266.7" y1="187.96" x2="251.46" y2="187.96" width="0.1524" layer="91"/>
+<wire x1="251.46" y1="187.96" x2="251.46" y2="182.88" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="PMON_EN"/>
+<wire x1="251.46" y1="182.88" x2="251.46" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="266.7" y1="182.88" x2="251.46" y2="182.88" width="0.1524" layer="91"/>
+<junction x="251.46" y="182.88"/>
+<pinref part="GND2" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="DSG" class="0">
@@ -14967,14 +14942,14 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 </segment>
 <segment>
 <pinref part="R8" gate="G$1" pin="2"/>
-<wire x1="246.38" y1="208.28" x2="246.38" y2="210.82" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="210.82" x2="243.84" y2="210.82" width="0.1524" layer="91"/>
-<label x="243.84" y="210.82" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="241.3" y1="208.28" x2="241.3" y2="210.82" width="0.1524" layer="91"/>
+<wire x1="241.3" y1="210.82" x2="238.76" y2="210.82" width="0.1524" layer="91"/>
+<label x="238.76" y="210.82" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="276.86" y1="104.14" x2="274.32" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="279.4" y1="104.14" x2="274.32" y2="104.14" width="0.1524" layer="91"/>
 <label x="274.32" y="104.14" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="K1" gate="G$1" pin="5"/>
+<pinref part="K1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="CHGDSG" class="1">
@@ -15023,9 +14998,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <label x="264.16" y="190.5" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="302.26" y1="104.14" x2="304.8" y2="104.14" width="0.1524" layer="91"/>
-<label x="304.8" y="104.14" size="1.27" layer="95" xref="yes"/>
-<pinref part="K1" gate="G$1" pin="1"/>
+<label x="327.66" y="114.3" size="1.27" layer="95" xref="yes"/>
+<pinref part="R10" gate="G$1" pin="2"/>
+<wire x1="322.58" y1="114.3" x2="327.66" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DSG_EN" class="0">
@@ -15035,9 +15010,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <label x="264.16" y="185.42" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="302.26" y1="99.06" x2="304.8" y2="99.06" width="0.1524" layer="91"/>
-<label x="304.8" y="99.06" size="1.27" layer="95" xref="yes"/>
-<pinref part="K1" gate="G$1" pin="2"/>
+<label x="327.66" y="104.14" size="1.27" layer="95" xref="yes"/>
+<pinref part="R15" gate="G$1" pin="2"/>
+<wire x1="322.58" y1="104.14" x2="327.66" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$38" class="0">
@@ -15052,17 +15027,17 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <net name="N$40" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="BAT"/>
-<wire x1="266.7" y1="195.58" x2="251.46" y2="195.58" width="0.1524" layer="91"/>
+<wire x1="266.7" y1="195.58" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
 <pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="251.46" y1="195.58" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="187.96" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="195.58" x2="241.3" y2="195.58" width="0.1524" layer="91"/>
+<wire x1="241.3" y1="187.96" x2="241.3" y2="195.58" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="1"/>
-<wire x1="254" y1="200.66" x2="251.46" y2="200.66" width="0.1524" layer="91"/>
-<wire x1="251.46" y1="200.66" x2="251.46" y2="195.58" width="0.1524" layer="91"/>
-<junction x="251.46" y="195.58"/>
-<pinref part="R8" gate="G$1" pin="1"/>
-<wire x1="246.38" y1="198.12" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
+<wire x1="254" y1="200.66" x2="246.38" y2="200.66" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="200.66" x2="246.38" y2="195.58" width="0.1524" layer="91"/>
 <junction x="246.38" y="195.58"/>
+<pinref part="R8" gate="G$1" pin="1"/>
+<wire x1="241.3" y1="198.12" x2="241.3" y2="195.58" width="0.1524" layer="91"/>
+<junction x="241.3" y="195.58"/>
 </segment>
 </net>
 <net name="N$41" class="0">
@@ -15134,9 +15109,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <label x="325.12" y="177.8" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="276.86" y1="99.06" x2="274.32" y2="99.06" width="0.1524" layer="91"/>
-<label x="274.32" y="99.06" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="K1" gate="G$1" pin="6"/>
+<wire x1="279.4" y1="101.6" x2="274.32" y2="101.6" width="0.1524" layer="91"/>
+<label x="274.32" y="101.6" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="K1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="D2" gate="G$1" pin="C"/>
@@ -15178,9 +15153,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 </net>
 <net name="PCHG_EN" class="0">
 <segment>
-<wire x1="302.26" y1="93.98" x2="304.8" y2="93.98" width="0.1524" layer="91"/>
-<label x="304.8" y="93.98" size="1.27" layer="95" xref="yes"/>
-<pinref part="K1" gate="G$1" pin="3"/>
+<label x="327.66" y="93.98" size="1.27" layer="95" xref="yes"/>
+<pinref part="R16" gate="G$1" pin="2"/>
+<wire x1="322.58" y1="93.98" x2="327.66" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="PCHG_EN"/>
@@ -15208,9 +15183,9 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 </net>
 <net name="LOAD-" class="0">
 <segment>
-<pinref part="K1" gate="G$1" pin="4"/>
-<wire x1="302.26" y1="88.9" x2="304.8" y2="88.9" width="0.1524" layer="91"/>
-<label x="304.8" y="88.9" size="1.27" layer="95" xref="yes"/>
+<wire x1="294.64" y1="96.52" x2="299.72" y2="96.52" width="0.1524" layer="91"/>
+<label x="299.72" y="96.52" size="1.27" layer="95" xref="yes"/>
+<pinref part="K1" gate="G$1" pin="5"/>
 </segment>
 <segment>
 <pinref part="D2" gate="G$1" pin="A"/>
@@ -15249,6 +15224,33 @@ Bourns CRE2512-FZ-R001E-3 (75 ppm/K, 3W, 1%)</text>
 <pinref part="C6" gate="G$1" pin="2"/>
 <wire x1="187.96" y1="149.86" x2="187.96" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="C7" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$5" class="0">
+<segment>
+<pinref part="R16" gate="G$1" pin="1"/>
+<wire x1="294.64" y1="99.06" x2="309.88" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="99.06" x2="309.88" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="93.98" x2="312.42" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="K1" gate="G$1" pin="6"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="R15" gate="G$1" pin="1"/>
+<wire x1="312.42" y1="104.14" x2="309.88" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="104.14" x2="309.88" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="101.6" x2="294.64" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="K1" gate="G$1" pin="7"/>
+</segment>
+</net>
+<net name="N$6" class="0">
+<segment>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="312.42" y1="114.3" x2="307.34" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="307.34" y1="114.3" x2="307.34" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="307.34" y1="104.14" x2="294.64" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="K1" gate="G$1" pin="8"/>
 </segment>
 </net>
 </nets>
